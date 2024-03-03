@@ -1,6 +1,10 @@
 package com.upskill.assignment_3;
 
 public class Assignment_3_2 {
+	/* Problem 2.	Write a java program which will display 5 employee information (name, age, salary and address). */
+
+
+}
 
 	public static class Problem2 {
 		static int count=1;
