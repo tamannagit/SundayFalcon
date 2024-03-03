@@ -8,8 +8,8 @@ public class DataTypes {
 /*       There are two Datatypes in java variableles:
 */
 
-    int a = 10;
-	int b = 25;
+    int a = 30;
+	int b = 16;
 	int c = a+b;
 	System.out.println(c);
 	
