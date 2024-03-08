@@ -10,7 +10,7 @@ public class Variables {
 	
 	
 	    String country = "USA";
-	    static String region = "America";
+	    static String region = "North America";
 
 	public static void main(String[] args) {
 		
