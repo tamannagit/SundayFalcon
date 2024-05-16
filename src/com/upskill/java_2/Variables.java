@@ -1,4 +1,4 @@
-package com.upskill.java_1;
+package com.upskill.java_2;
 
 public class Variables {
 	

@@ -1,5 +1,7 @@
 package com.upskill.java_1;
 
+import com.upskill.java_2.Variables;
+
 public class MethodType extends Variables{
 	
 	
