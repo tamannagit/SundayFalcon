@@ -1,4 +1,4 @@
-package com.upskill.java_1;
+package com.upskill.java_2;
 
 public class Variables {
 	
@@ -10,7 +10,7 @@ public class Variables {
 	
 	
 	    String country = "USA";
-	    static String region = "America";
+	    static String region = "North America";
 
 	public static void main(String[] args) {
 		
